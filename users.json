@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "fullName": "System Admin",
+    "email": "admin@system.com",
+    "password": "admin123",
+    "role": "admin",
+    "userId": "686c1dce-7f40-4f43-ba80-806a1b8a419c",
+    "createdAt": "2025-06-24T16:28:25.652470"
+  },
+  "soumya": {
+    "userId": "92fe0954-2868-46c5-ba25-3ea4c1877ea2",
+    "fullName": "Soumya",
+    "email": "soumya@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2025-06-24T17:32:32.401875"
+  }
+}
